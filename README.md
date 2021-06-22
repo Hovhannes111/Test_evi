@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 2. create .evn file use .env.example
 3. php artisan key:generate
 4. create database evistep
-5. first command php artisan migrate
+5. php artisan migrate
 6. php artisan db:seed 
 7. php artisan serve
 
