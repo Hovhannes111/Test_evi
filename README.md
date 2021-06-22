@@ -63,9 +63,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <<<<<<< HEAD
 
-1. first command php artisan migrate
-2. php artisan db:seed 
-=======
 1. composer install
 2. create .evn file use .env.example
 3. php artisan key:generate
@@ -73,5 +70,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 5. first command php artisan migrate
 6. php artisan db:seed 
 7. php artisan serve
->>>>>>> final commit
-"# test_evi" 
+
